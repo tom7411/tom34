@@ -3,7 +3,8 @@
 
 int main()
 {
-pringtf("helloworld/n");
+printf（"hello aaaa\n");
+pringtf("helloworld\n");
 system ("pause");
 return 0;
 }
